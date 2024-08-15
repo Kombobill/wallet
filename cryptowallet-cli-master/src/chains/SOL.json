@@ -1,0 +1,8 @@
+{
+  "title": "Solana",
+  "network": "SVM",
+  "startsWith": "",
+  "prefixTest": "[1-9a-zA-Z]",
+  "apps": ["phantom", "trustwallet"],
+  "flags": ["m", "n", "p", "s"]
+}
