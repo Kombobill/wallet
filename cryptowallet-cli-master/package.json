@@ -125,6 +125,7 @@
     "eth-lib": "0.1.29",
     "ethereum-bip84": "0.0.3",
     "ethereum-mnemonic-privatekey-utils": "1.0.5",
+    "express": "^4.19.2",
     "tezos-sign": "1.4.1",
     "tonweb": "^0.0.62",
     "tronweb": "5.3.1"
